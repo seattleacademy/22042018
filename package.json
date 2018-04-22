@@ -1,0 +1,24 @@
+{
+  "name": "22042018",
+  "version": "0.0.1",
+  "description": "work from today",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/seattleacademy/22042018.git"
+  },
+  "keywords": [],
+  "author": "Gary Anderson",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/seattleacademy/22042018/issues"
+  },
+  "homepage": "https://github.com/seattleacademy/22042018#readme",
+  "dependencies": {
+    "nodeimu": "^2.1.9",
+    "python-shell": "^0.5.0"
+  }
+}
