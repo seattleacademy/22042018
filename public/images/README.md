@@ -1,0 +1,1 @@
+Place images for the server in this directory.
